@@ -1,31 +1,48 @@
-# 👋 Olá, eu sou o Paulo Henrique
+# 👋 Hi, I'm Paulo Henrique
 
-💻 Desenvolvedor de Software | 🏆 Medalhista de Ouro WorldSkills | 🚀 Focado em soluções práticas e de alto desempenho
+💻 Software Developer | 🏆 WorldSkills Bronze Medalist | 🚀 Focused on scalable, high-performance solutions
 
-Sou desenvolvedor apaixonado por tecnologia, com forte base em **programação orientada a objetos**, **desenvolvimento backend**, **aplicações desktop, web e mobile**, sempre buscando código limpo, otimizado e alinhado às boas práticas do mercado.
-
----
-
-## 🚀 Sobre mim
-
-- 🏆 **Medalhista de Ouro – WorldSkills (TI e Soluções de Software)**
-- 💼 Experiência com **projetos reais**, competições técnicas e soluções voltadas ao mercado
-- 🎯 Foco em **qualidade de código, desempenho e organização**
-- 📚 Sempre estudando e evoluindo em novas tecnologias
-- 🧠 Forte base em lógica, arquitetura de software e design patterns
+I am a passionate software developer with a strong foundation in **object-oriented programming**, **backend development**, **API design**, and **desktop, web, and mobile applications**, always prioritizing **clean code**, **well-defined architecture**, and **industry best practices**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 About Me
 
-### 💻 Linguagens
-- Java (Java 8 – foco em código otimizado)
-- C#  
-- Kotlin  
-- Python  
+- 🏆 **Bronze Medalist – WorldSkills National (IT & Software Solutions)**
+- 💼 Experience with **real-world projects**, technical competitions, and end-to-end systems
+- 🎯 Strong focus on **code quality, performance, and organization**
+- 📚 Constantly learning and evolving technically
+- 🧠 Solid background in **logic**, **software architecture**, and **design patterns**
+
+---
+
+## ⭐ Main Stack (Current Focus)
+
+### 🔥 Backend & APIs – C#
+- **C# (.NET Framework / .NET Core / .NET)**
+- **ASP.NET Core Web API**
+- RESTful API development
+- Layered architecture
+- SOLID principles
+- Authentication and authorization
+- Database integration
+- Best practices for scalable and maintainable APIs
+
+> 🎯 Current main focus: **building robust and well-structured APIs using C#**
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Languages
+- **C# (.NET Framework / .NET Core)**
+- Java (Java 8 – optimized code focus)
+- Kotlin
+- Python
 - SQL
 
 ### 🌐 Backend & APIs
+- ASP.NET Core Web API
 - Java Spring Boot
 - Spring MVC
 - Spring Security + JWT
@@ -33,58 +50,58 @@ Sou desenvolvedor apaixonado por tecnologia, com forte base em **programação o
 
 ### 🖥️ Desktop & Mobile
 - Java Swing
-- Android (Java e Kotlin)
-- Integrações Mobile ↔ Backend
+- Desktop applications with C#
+- Android (Java and Kotlin)
+- Mobile ↔ Backend integrations
 
-### 🗄️ Bancos de Dados
-- MySQL
+### 🗄️ Databases
 - SQL Server
+- MySQL
 - PostgreSQL
 
-### ⚙️ Ferramentas & Outros
+### ⚙️ Tools & Concepts
 - Git & GitHub
+- VS Code
 - NetBeans
 - Android Studio
-- VS Code
 - MySQL Workbench
 - pgAdmin
-- Arquitetura em camadas
+- Layered architecture
 - Design Patterns
+- Version control and best practices
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
 🔹 **Lyon Quizzer / Lyon Learn Show**  
-Aplicações Desktop e Mobile para quizzes educacionais, ranking, login, integração entre plataformas e testes unitários.
+Desktop and mobile platforms for educational quizzes, including login, ranking systems, platform integration, and unit testing.
 
-🔹 **E-commerce (Bolos, Doces e Salgados)**  
-Sistema completo para organização de pedidos, clientes e vendas, desenvolvido em Java com Spring MVC e MySQL.
+🔹 **E-commerce (Cakes, Sweets & Savory Products)**  
+Complete system for order, customer, and sales management, developed using Java Spring MVC and MySQL.
 
-🔹 **Sistemas Desktop em Java e C#**  
-Aplicações focadas em controle de acesso, dashboards, autenticação e organização empresarial.
+🔹 **Desktop Systems and APIs in C#**  
+Applications focused on access control, authentication, dashboards, and business organization.
 
-🔹 **Comunicação P2P em Python**  
-Sistema de comunicação peer-to-peer utilizando sockets, com foco em usabilidade e evolução para interface gráfica.
-
----
-
-## 📈 Objetivos
-
-- Evoluir cada vez mais como **engenheiro de software**
-- Atuar em projetos desafiadores e de impacto real
-- Dominar arquiteturas modernas e sistemas escaláveis
-- Crescer profissionalmente no mercado de tecnologia
+🔹 **P2P Communication in Python**  
+Peer-to-peer communication system using sockets, with a focus on usability and future graphical interfaces.
 
 ---
 
-## 📫 Como me encontrar
+## 📈 Career Goals
 
-- GitHub: github.com/PauloHenriqueCarvalho
-- LinkedIn: www.linkedin.com/in/paulo-carvalho-18a042283
-
-
+- Work as a **Software Engineer / Backend Developer**
+- Specialize in **modern APIs and scalable architectures**
+- Build and maintain medium to large-scale systems
+- Continuously grow within the **.NET and backend ecosystem**
 
 ---
 
-⭐ Se você gostou de algum projeto, não esqueça de deixar uma estrela!
+## 📫 How to reach me
+
+- GitHub: https://github.com/PauloHenriqueCarvalho  
+- LinkedIn: https://www.linkedin.com/in/paulo-carvalho-18a042283  
+
+---
+
+⭐ If you like any of my projects, feel free to leave a star!
