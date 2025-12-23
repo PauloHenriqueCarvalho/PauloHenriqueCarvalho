@@ -1,107 +1,92 @@
-# 👋 Hi, I'm Paulo Henrique
+# Hi 👋, I'm Paulo Henrique
 
-💻 Software Developer | 🏆 WorldSkills Bronze Medalist | 🚀 Focused on scalable, high-performance solutions
+🚀 **Software Developer | Backend & API Specialist (.NET / C#)**  
+🏆 **WorldSkills National Bronze Medalist**  
+🇧🇷 Brazil
 
-I am a passionate software developer with a strong foundation in **object-oriented programming**, **backend development**, **API design**, and **desktop, web, and mobile applications**, always prioritizing **clean code**, **well-defined architecture**, and **industry best practices**.
+I build **robust backend systems**, **RESTful APIs**, and **well-structured applications**,  
+with a strong focus on **clean architecture**, **performance**, and **maintainable code**.
+
+I’m driven by **real-world projects**, technical challenges, and continuous improvement as a software engineer.
 
 ---
 
-## 🚀 About Me
+## 🌐 Where to find me
 
-- 🏆 **Bronze Medalist – WorldSkills National (IT & Software Solutions)**
-- 💼 Experience with **real-world projects**, technical competitions, and end-to-end systems
-- 🎯 Strong focus on **code quality, performance, and organization**
-- 📚 Constantly learning and evolving technically
-- 🧠 Solid background in **logic**, **software architecture**, and **design patterns**
+<p align="left">
+  <a href="https://github.com/PauloHenriqueCarvalho">
+    <img src="https://img.shields.io/badge/GitHub-PAULOHENRIQUECARVALHO-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/paulo-carvalho-18a042283">
+    <img src="https://img.shields.io/badge/LinkedIn-PAULO%20HENRIQUE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 What I do
+
+- 🏗️ Backend systems & REST APIs
+- ⚡ Performance-focused development
+- 🧩 Clean architecture & layered systems
+- 🔐 Authentication & authorization
+- 🗄️ Database modeling & integrations
+- 🔄 System and mobile integrations
+- 📊 Business logic & data handling
+- 🧪 Testing and code organization
 
 ---
 
 ## ⭐ Main Stack (Current Focus)
 
-### 🔥 Backend & APIs – C#
-- **C# (.NET Framework / .NET Core / .NET)**
-- **ASP.NET Core Web API**
+- **C# (.NET / .NET Core / ASP.NET Core Web API)**
 - RESTful API development
-- Layered architecture
 - SOLID principles
-- Authentication and authorization
-- Database integration
-- Best practices for scalable and maintainable APIs
-
-> 🎯 Current main focus: **building robust and well-structured APIs using C#**
-
----
-
-## 🛠️ Technologies & Tools
-
-### 💻 Languages
-- **C# (.NET Framework / .NET Core)**
-- Java (Java 8 – optimized code focus)
-- Kotlin
-- Python
-- SQL
-
-### 🌐 Backend & APIs
-- ASP.NET Core Web API
-- Java Spring Boot
-- Spring MVC
-- Spring Security + JWT
-- REST APIs
-
-### 🖥️ Desktop & Mobile
-- Java Swing
-- Desktop applications with C#
-- Android (Java and Kotlin)
-- Mobile ↔ Backend integrations
-
-### 🗄️ Databases
-- SQL Server
-- MySQL
-- PostgreSQL
-
-### ⚙️ Tools & Concepts
-- Git & GitHub
-- VS Code
-- NetBeans
-- Android Studio
-- MySQL Workbench
-- pgAdmin
 - Layered architecture
-- Design Patterns
-- Version control and best practices
+- Secure authentication flows
+- SQL-based persistence
+- Scalable backend design
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack
 
-🔹 **Lyon Quizzer / Lyon Learn Show**  
-Desktop and mobile platforms for educational quizzes, including login, ranking systems, platform integration, and unit testing.
+### Backend
 
-🔹 **E-commerce (Cakes, Sweets & Savory Products)**  
-Complete system for order, customer, and sales management, developed using Java Spring MVC and MySQL.
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet)
+![REST API](https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=fastapi)
 
-🔹 **Desktop Systems and APIs in C#**  
-Applications focused on access control, authentication, dashboards, and business organization.
+### Languages
 
-🔹 **P2P Communication in Python**  
-Peer-to-peer communication system using sockets, with a focus on usability and future graphical interfaces.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Databases
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+### Tools & Concepts
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-000000?style=for-the-badge)
 
 ---
 
-## 📈 Career Goals
+## 🚀 Philosophy
 
-- Work as a **Software Engineer / Backend Developer**
-- Specialize in **modern APIs and scalable architectures**
-- Build and maintain medium to large-scale systems
-- Continuously grow within the **.NET and backend ecosystem**
+> _"Good software is not just about making it work.  
+> It's about building systems that are clean, scalable, and easy to evolve."_
 
 ---
 
-## 📫 How to reach me
-
-- GitHub: https://github.com/PauloHenriqueCarvalho  
-- LinkedIn: https://www.linkedin.com/in/paulo-carvalho-18a042283  
-
----
-
-⭐ If you like any of my projects, feel free to leave a star!
+⭐ If you like my work, feel free to star a repository  
+🤝 Always open to learning, collaboration, and new challenges
